@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercício DAO + Factory + Singleton — Entidade: Aluno
 
 ## Entidade escolhida
@@ -83,3 +84,5 @@ Depois de rodar, um arquivo `alunos.db` vai aparecer na raiz do projeto — é o
 5. Deleta o outro aluno.
 6. Lista novamente para mostrar o resultado final.
 # JAVA-CP-1.2
+=======
+
