@@ -1,5 +1,5 @@
 
-# Exercício DAO + Factory + Singleton — Entidade: Aluno
+# CP 1/2 — Entidade: Aluno
 
 ## Entidade escolhida
 **Aluno**, com os atributos:
