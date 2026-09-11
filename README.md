@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Exercício DAO + Factory + Singleton — Entidade: Aluno
 
 ## Entidade escolhida
